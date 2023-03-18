@@ -1,0 +1,6 @@
+C:\Users\Даня\RiderProjects\task2_35\task2_35\bin\Debug\task2_35.exe
+C:\Users\Даня\RiderProjects\task2_35\task2_35\bin\Debug\task2_35.pdb
+C:\Users\Даня\RiderProjects\task2_35\task2_35\obj\Debug\task2_35.csproj.AssemblyReference.cache
+C:\Users\Даня\RiderProjects\task2_35\task2_35\obj\Debug\task2_35.csproj.CoreCompileInputs.cache
+C:\Users\Даня\RiderProjects\task2_35\task2_35\obj\Debug\task2_35.exe
+C:\Users\Даня\RiderProjects\task2_35\task2_35\obj\Debug\task2_35.pdb
